@@ -1,6 +1,6 @@
 ## Hi there👋
 
-I'm Camilo and I'm an economist -and aspiring data scientist- from Bogotá, Colombia 🇨🇴.
+My name is Camilo Martínez. I'm an economist -and aspiring data scientist- from Bogotá, Colombia 🇨🇴.
 
 I have [blog] where I share what I know about R and Python. You can follow me on [twitter] and reach me via [linkedin].
 
@@ -13,9 +13,6 @@ I have [blog] where I share what I know about R and Python. You can follow me on
 - [3 funciones de dplyr que no sabías que existían](http://www.camartinezbu.com//posts/3-funciones-de-dplyr-que-no-sabias-que-existian/)
 - [¿Qué significa que los datos estén ordenados?](http://www.camartinezbu.com//posts/que-significa-que-los-datos-esten-ordenados/)
 <!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://camartinezbu.com)
-
 
 
 [blog]: https://camartinezbu.com
