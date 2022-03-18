@@ -1,22 +1,32 @@
-### Hi there 👋
+## Hi there, I'm Camilo 👋
 
-<!--
-**camartinezbu/camartinezbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🇨🇴 I live in Bogotá, Colombia
+- 📚 I'm an economist and I'm about to graduate from a MsC in Economics
+- 🌱 I’m currently learning about Machine Learning
+- 😄 Pronouns: he/him
+- 🥅 2022 Goals: I want to grow my blog and contribute more to Open Source Projects
+- 💡 I believe in the power of data to understand the world and I enjoy teaching what I have learned
+- ⚡ Fun fact: I love everything space related 🚀
 
-Here are some ideas to get you started:
+### Connect with me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![website](./img/earth-globe.svg)](https://camartinezbu.com)
+&nbsp;&nbsp;
+[![website](./img/twitter-original.svg)](https://twitter.com/camartinezbu)
+&nbsp;&nbsp;
+[![website](./img/linkedin-original.svg)](https://www.linkedin.com/in/camartinezbu/)
+&nbsp;&nbsp;
 
-My name is Camilo Martínez Burgos (he/him) and I'm an economist from Bogotá, Colombia 🇨🇴 who is passionate about data science and programming. A few years ago I started my path in this subject by learning to work with R and the tidyverse. Since then, I have learned about git and github, python, postgresql, docker, among other tools.
+### Latest blog posts
 
-I believe that data is key to understand the world and to improve decision-making, both for people and organizations. For this reason I decided to open a [blog](www.camartinezbu.com) where I explain various data science concepts. I want more people to be able to apply data analysis tools in their daily or work life and, if possible, remove the taboo on the difficulty of data science based on simple and intuitive explanations.
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 
 I'm an economist and I'm about to complete my Master's degree in the same topic. I have more than 5 years of experience working on public policy issues in Colombia. I have worked as an Economic Advisor in the National Business Council and as an Analyst of Smart Cities and Urban Security in ProBogotá Region.
+
+
+[website]: https://camartinezbu.com
+[twitter]: https://twitter.com/camartinezbu
+[linkedin]: https://www.linkedin.com/in/camartinezbu/
