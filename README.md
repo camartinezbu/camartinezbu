@@ -5,26 +5,25 @@
 - 🌱 I’m currently learning about Machine Learning
 - 😄 Pronouns: he/him
 - 🥅 2022 Goals: I want to grow my blog and contribute more to Open Source Projects
-- 💡 I believe in the power of data to understand the world and I enjoy teaching what I have learned
+- 💡 I strongly believe in the power of data to understand the world
 - ⚡ Fun fact: I love everything space related 🚀
 
-### Connect with me
+### 🔗 Connect with me
 
-[![website](./img/earth-globe.svg)](https://camartinezbu.com)
+[<img align="left" alt="Website" width="26px" src="./img/earth-globe.svg" style="padding-right:10px;" />][website]
 &nbsp;&nbsp;
-[![website](./img/twitter-original.svg)](https://twitter.com/camartinezbu)
+[<img align="left" alt="Twitter" width="26px" src="./img/twitter-original.svg" style="padding-right:10px;" />][twitter]
 &nbsp;&nbsp;
-[![website](./img/linkedin-original.svg)](https://www.linkedin.com/in/camartinezbu/)
-&nbsp;&nbsp;
+[<img align="left" alt="LinkedIn" width="26px" src="./img/linkedin-original.svg" style="padding-right:10px;" />][linkedin]
 
-### Latest blog posts
+
+### 📕 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+- [more blog posts...](https://camartinezbu.com)
 
-
-I'm an economist and I'm about to complete my Master's degree in the same topic. I have more than 5 years of experience working on public policy issues in Colombia. I have worked as an Economic Advisor in the National Business Council and as an Analyst of Smart Cities and Urban Security in ProBogotá Region.
 
 
 [website]: https://camartinezbu.com
