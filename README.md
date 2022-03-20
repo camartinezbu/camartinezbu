@@ -1,6 +1,6 @@
 ## Hi there👋
 
-My name is Camilo Martínez. I'm an economist -and aspiring data scientist- from Bogotá, Colombia 🇨🇴.
+My name is Camilo Martínez. I'm an economist and aspiring data scientist from Bogotá, Colombia 🇨🇴.
 
 I have [blog] where I share what I know about R and Python. You can follow me on [twitter] and reach me via [linkedin].
 
