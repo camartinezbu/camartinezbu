@@ -1,10 +1,30 @@
-## Hi there👋
+## Hi 👋🏻! I'm Camilo👨🏼‍💻
 
-My name is Camilo Martínez. I'm an economist and aspiring data scientist from Bogotá, Colombia 🇨🇴.
+[![Blog Badge](https://img.shields.io/badge/blog-camartinezbu.com-orange)](https://www.camartinezbu.com)
+[![Linkedin Badge](https://img.shields.io/badge/-camartinezbu-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/camartinezbu/ "Connect on LinkedIn")
+[![Twitter Badge](https://img.shields.io/badge/-@camartinezbu-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/camartinezbu "Follow on Twitter")
+[![Gmail Badge](https://img.shields.io/badge/-camartinezbu.contacto@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:camartinezbu.contacto@gmail.com "Connect via Email")
 
-I have [blog] where I share what I know about R and Python. You can follow me on [twitter] and reach me via [linkedin].
 
-### Latest blog posts:
+I am an economist and data scientist from Bogotá, Colombia 🇨🇴 pursuing a Masters in Economics, who is passionate about data science, programming and the power of data to influence decision-making. I love to learn and to share my knowledge with others at my [blog].
+
+## Skills
+
+I'm proficcient at:
+
+- **Languages**: R, Python
+- **Data Science**: Tidyverse, Numpy, Pandas, Matplotlib, Seaborn
+- **GIS**: QGIS, sf, leaflet for R, geopandas
+- **Tools**: Conda, Docker, Git, Jupyter, VS Code
+- **Databases**: PostgreSQL
+
+I'm learning:
+
+- **Machine Learning**: Scikit-learn, Keras, Tensorflow, Huggingface
+- **Tools**: Kubernetes
+- **Databases**: MongoDB
+
+## Latest blog posts:
 
 <!-- BLOG-POST-LIST:START -->
 - [La guía para manipular archivos con shell](http://www.camartinezbu.com//posts/la-guia-para-manipular-archivos-con-shell/)
@@ -18,3 +38,4 @@ I have [blog] where I share what I know about R and Python. You can follow me on
 [blog]: https://camartinezbu.com
 [twitter]: https://twitter.com/camartinezbu
 [linkedin]: https://www.linkedin.com/in/camartinezbu/
+
