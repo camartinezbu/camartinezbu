@@ -1,4 +1,4 @@
-## Hi 👋🏻! I'm Camilo👨🏼‍💻
+# Hi 👋🏻! I'm Camilo👨🏼‍💻
 
 [![Blog Badge](https://img.shields.io/badge/blog-camartinezbu.com-orange)](https://www.camartinezbu.com)
 [![Linkedin Badge](https://img.shields.io/badge/-camartinezbu-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/camartinezbu/ "Connect on LinkedIn")
@@ -8,7 +8,7 @@
 
 I am an economist and data scientist from Bogotá, Colombia 🇨🇴 pursuing a Masters in Economics, who is passionate about data science, programming and the power of data to influence decision-making. I love to learn and to share my knowledge with others at my [blog].
 
-## Skills
+## ⚡️ Skills
 
 I'm proficcient at:
 
@@ -24,7 +24,7 @@ I'm learning:
 - **Tools**: Kubernetes
 - **Databases**: MongoDB
 
-## Latest blog posts:
+## 📕 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [La guía para manipular archivos con shell](http://www.camartinezbu.com//posts/la-guia-para-manipular-archivos-con-shell/)
