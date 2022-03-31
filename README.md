@@ -10,7 +10,7 @@ I am an economist and data scientist from Bogotá, Colombia 🇨🇴 pursuing a 
 
 ## ⚡️ Skills
 
-I'm proficcient at:
+I'm proficient at:
 
 - **Languages**: R, Python
 - **Data Science**: Tidyverse, Numpy, Pandas, Matplotlib, Seaborn
