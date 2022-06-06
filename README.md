@@ -7,7 +7,7 @@
 [![Buy Me a Coffee Badge](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/camartinezbu "Support me")
 
 
-I am an economist and data scientist from Bogotá, Colombia 🇨🇴 pursuing a Masters in Economics, who is passionate about data science, programming and the power of data to influence decision-making. I love to learn and to share my knowledge with others at my [blog].
+I am an economist and data scientist from Bogotá, Colombia 🇨🇴 with a Masters degree in Economics, who is passionate about data science, programming and the power of data to influence decision-making. I love to learn and to share my knowledge with others at my [blog].
 
 ## ⚡️ Skills
 
