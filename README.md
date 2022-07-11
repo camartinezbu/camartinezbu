@@ -28,11 +28,11 @@ I'm learning:
 ## 📕 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Crea tu propia plantilla en Cookiecutter](http://www.camartinezbu.com//posts/crea-tu-propia-plantilla-en-cookiecutter/)
 - [4 paquetes para mejorar tus gráficos en ggplot2](http://www.camartinezbu.com//posts/4-paquetes-para-mejorar-tus-graficos-en-ggplot2/)
 - [La guía para manipular archivos con shell](http://www.camartinezbu.com//posts/la-guia-para-manipular-archivos-con-shell/)
 - [Plantillas para proyectos de ciencia de datos](http://www.camartinezbu.com//posts/plantillas-para-proyectos-de-ciencia-de-datos/)
 - [Condicionar la ejecución de comandos dentro de pipes](http://www.camartinezbu.com//posts/condicionar-la-ejecucion-de-comandos-dentro-de-pipes/)
-- [Mapas de calor como calendarios en R](http://www.camartinezbu.com//posts/mapas-de-calor-como-calendarios-en-R/)
 <!-- BLOG-POST-LIST:END -->
 
 
