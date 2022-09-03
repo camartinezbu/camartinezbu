@@ -28,11 +28,11 @@ I'm learning:
 ## 📕 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [La anatomía de un gráfico](http://www.camartinezbu.com//posts/la-anatomia-de-un-grafico/)
 - [La guía definitiva para escribir ecuaciones en Jupyter](http://www.camartinezbu.com//posts/la-guia-definitiva-para-escribir-ecuaciones-en-jupyter/)
 - [Crea tu propia plantilla en Cookiecutter](http://www.camartinezbu.com//posts/crea-tu-propia-plantilla-en-cookiecutter/)
 - [4 paquetes para mejorar tus gráficos en ggplot2](http://www.camartinezbu.com//posts/4-paquetes-para-mejorar-tus-graficos-en-ggplot2/)
 - [La guía para manipular archivos con shell](http://www.camartinezbu.com//posts/la-guia-para-manipular-archivos-con-shell/)
-- [Plantillas para proyectos de ciencia de datos](http://www.camartinezbu.com//posts/plantillas-para-proyectos-de-ciencia-de-datos/)
 <!-- BLOG-POST-LIST:END -->
 
 
