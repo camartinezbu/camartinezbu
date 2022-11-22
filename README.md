@@ -40,3 +40,11 @@ I'm learning:
 [twitter]: https://twitter.com/camartinezbu
 [linkedin]: https://www.linkedin.com/in/camartinezbu/
 
+## 📈 Stats
+
+[![camartinezbu's GitHub stats](https://github-readme-stats.vercel.app/api?username=camartinezbu&theme=dark&hide=contribs,prs&show_icons=True)](https://github.com/camartinezbu/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camartinezbu&hide=html,css,javascript,ruby&layout=compact&theme=dark)](https://github.com/camartinezbu/github-readme-stats)
+
+
+
