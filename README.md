@@ -28,11 +28,11 @@ I'm learning:
 ## 📕 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 razones que dificultan el trabajo con fechas](http://www.camartinezbu.com//posts/3-razones-que-dificultan-el-trabajo-con-fechas/)
 - [¿Cómo escribir un problema de optimización en Jupyter?](http://www.camartinezbu.com//posts/como-escribir-un-problema-de-optimizacion-en-jupyter/)
 - [Args y Kwargs en Python](http://www.camartinezbu.com//posts/args-y-kwargs-en-python/)
 - [La anatomía de un gráfico](http://www.camartinezbu.com//posts/la-anatomia-de-un-grafico/)
 - [La guía definitiva para escribir ecuaciones en Jupyter](http://www.camartinezbu.com//posts/la-guia-definitiva-para-escribir-ecuaciones-en-jupyter/)
-- [Crea tu propia plantilla en Cookiecutter](http://www.camartinezbu.com//posts/crea-tu-propia-plantilla-en-cookiecutter/)
 <!-- BLOG-POST-LIST:END -->
 
 
