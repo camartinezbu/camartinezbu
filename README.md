@@ -3,7 +3,7 @@
 [![Blog Badge](https://img.shields.io/badge/blog-camartinezbu.com-orange)](https://www.camartinezbu.com)
 [![Linkedin Badge](https://img.shields.io/badge/-camartinezbu-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/camartinezbu/ "Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/-@camartinezbu-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/camartinezbu "Follow on Twitter")
-[![Mastodon Badge](https://img.shields.io/badge/-@camartinezbu@fosstodon.org-6804d0?style=flat&logo=Mastodon&logoColor=white)](https://twitter.com/camartinezbu "Follow on Twitter")
+[![Mastodon Badge](https://img.shields.io/badge/-@camartinezbu@fosstodon.org-6804d0?style=flat&logo=Mastodon&logoColor=white)](https://fosstodon.org/@camartinezbu "Follow on Twitter")
 [![Gmail Badge](https://img.shields.io/badge/-camartinezbu.contacto@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:camartinezbu.contacto@gmail.com "Connect via Email")
 [![Buy Me a Coffee Badge](https://img.shields.io/badge/-Support%20Me-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/camartinezbu "Support me")
 
