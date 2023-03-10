@@ -29,11 +29,11 @@ I'm learning:
 ## 📕 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Colab vs Deepnote](http://www.camartinezbu.com//posts/google-colab-vs-deepnote/)
 - [¿Cómo trabajar con fechas en Pandas?](http://www.camartinezbu.com//posts/como-trabajar-con-fechas-en-pandas/)
 - [¿Cómo trabajar con fechas en Python?](http://www.camartinezbu.com//posts/como-trabajar-con-fechas-en-python/)
 - [¿Cómo trabajar con fechas en R?](http://www.camartinezbu.com//posts/como-trabajar-con-fechas-en-r/)
 - [3 razones que dificultan el trabajo con fechas](http://www.camartinezbu.com//posts/3-razones-que-dificultan-el-trabajo-con-fechas/)
-- [¿Cómo escribir un problema de optimización en Jupyter?](http://www.camartinezbu.com//posts/como-escribir-un-problema-de-optimizacion-en-jupyter/)
 <!-- BLOG-POST-LIST:END -->
 
 
