@@ -29,11 +29,11 @@ I'm learning:
 ## 📕 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [¿Cómo funcionan los decoradores en Python?](http://www.camartinezbu.com//posts/como-funcionan-los-decoradores-en-python/)
 - [Google Colab vs Deepnote](http://www.camartinezbu.com//posts/google-colab-vs-deepnote/)
 - [¿Cómo trabajar con fechas en Pandas?](http://www.camartinezbu.com//posts/como-trabajar-con-fechas-en-pandas/)
 - [¿Cómo trabajar con fechas en Python?](http://www.camartinezbu.com//posts/como-trabajar-con-fechas-en-python/)
 - [¿Cómo trabajar con fechas en R?](http://www.camartinezbu.com//posts/como-trabajar-con-fechas-en-r/)
-- [3 razones que dificultan el trabajo con fechas](http://www.camartinezbu.com//posts/3-razones-que-dificultan-el-trabajo-con-fechas/)
 <!-- BLOG-POST-LIST:END -->
 
 
