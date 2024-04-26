@@ -5,7 +5,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-@camartinezbu-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/camartinezbu "Follow on Twitter")
 [![Mastodon Badge](https://img.shields.io/badge/-@camartinezbu@fosstodon.org-6804d0?style=flat&logo=Mastodon&logoColor=white)](https://fosstodon.org/@camartinezbu "Follow on Twitter")
 [![Gmail Badge](https://img.shields.io/badge/-camartinezbu.contacto@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:camartinezbu.contacto@gmail.com "Connect via Email")
-[![Buy Me a Coffee Badge](https://img.shields.io/badge/-Support%20Me-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/camartinezbu "Support me")
 
 
 I am an economist and data scientist from Bogotá, Colombia 🇨🇴 with a Masters degree in Economics, who is passionate about data science, programming and the power of data to influence decision-making. I love to learn and to share my knowledge with others at my [blog].
