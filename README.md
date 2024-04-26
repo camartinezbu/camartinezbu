@@ -21,9 +21,8 @@ I'm proficient at:
 
 I'm learning:
 
-- **Machine Learning**: Scikit-learn, Keras, Tensorflow, Huggingface
-- **Tools**: Kubernetes
-- **Databases**: MongoDB
+- **Languages**: Go
+- **Machine Learning**: Pytorch
 
 ## 📕 Latest blog posts
 
