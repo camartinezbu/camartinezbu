@@ -27,11 +27,11 @@ I'm learning:
 ## 📕 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lo que aprendí escribiendo un paquete](https://www.camartinezbu.com/posts/lo-que-aprendi-escribiendo-un-paquete/)
 - [Descubre cómo usar ChatGPT para ciencia de datos](https://www.camartinezbu.com/posts/descubre-como-usar-chatgpt-para-ciencia-de-datos/)
 - [Aprende a manejar rutas de archivo con pathlib](https://www.camartinezbu.com/posts/aprende-a-manejar-rutas-de-archivo-con-pathlib/)
 - [¿Cómo funcionan los decoradores en Python?](https://www.camartinezbu.com/posts/como-funcionan-los-decoradores-en-python/)
 - [Google Colab vs Deepnote](https://www.camartinezbu.com/posts/google-colab-vs-deepnote/)
-- [¿Cómo trabajar con fechas en Pandas?](https://www.camartinezbu.com/posts/como-trabajar-con-fechas-en-pandas/)
 <!-- BLOG-POST-LIST:END -->
 
 
